@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Rodrigo Cavicchioli
 
 - 💻 Hoje trabalho com Back-end
-- 📖 Atualmente estudando ADS na UNIP
+- 📖 Atualmente estudando Ciência da Computação na UNIP e Técnico em Desenvolvimento de Sistemas no Senac.
 - ✉ Contate-me no e-mail: rodrigo.cavicchioli@outlook.com
+- 💼 Contate-me no meu Linkedin: www.linkedin.com/in/rodrigocav-
 
 <div>
   <a href="https://github.com/rodrigocav">
