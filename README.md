@@ -1,27 +1,55 @@
-## Olá! Eu sou o Rodrigo Cavicchioli
+<h1 align="center">📊 Rodrigo de Oliveira Cavicchioli | Desenvolvedor de Sistemas</h1>
 
-- 💻 Hoje trabalho com Back-end
-- 📖 Atualmente estudando Ciência da Computação na UNIP e Técnico em Desenvolvimento de Sistemas no Senac.
-- ✉ Contate-me no e-mail: rodrigo.cavicchioli@outlook.com
-- 💼 Contate-me no meu LinkedIn: www.linkedin.com/in/rodrigocav-
+<p align="center">
+  Olá! Sou o Rodrigo de Oliveira Cavicchioli, apaixonado por transformar dados em decisões inteligentes.  
+  Busco gerar impacto com soluções baseadas em <strong>Java</strong> e <strong>MySQL</strong>.
 
-<div>
-  <a href="https://github.com/rodrigocav">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=rodrigocav&show_icons=tru&theme=dark&include_all_commits=true&count_private=tue"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocav&layout=compact&langs_count=1&theme=dark"/>
-  </div>
+---
 
-<div dstyle="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
-  <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-</div>
+### 🧠 Sobre mim
 
-##
+Sou estudante de tecnico de <strong>Desenvolvimento de Sistemas</strong> no Senac e <strong>Ciências da Computação</strong> na Universidade Paulista.  
+Tenho facilidade em aprender novas tecnologias e experiência prática com projetos de automação, visualização de dados e desenvolvimento web.  
 
-<div>
-  <a href="https://instagram.com/rodrigocav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rodrigo.cavicchioli@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://br.linkedin.com/in/rodrigocav-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+
+Sou curioso, autodidata e movido por desafios.
+
+---
+
+### ⚙️ Tecnologias & Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,java,js,php,sql,html,css,git,github,vscode,linux"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XavierNTC&show_icons=true&theme=dark&bg_color=000000&title_color=00FF99&text_color=FFFFFF&icon_color=00FFFF&border_color=3333FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierNTC&layout=compact&theme=dark&bg_color=000000&title_color=00FF99&text_color=FFFFFF&icon_color=00FFFF&border_color=3333FF"/>
+</p>
+
+---
+
+### 📬 Como falar comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigocavi-" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rodrigo.cavicchioli@outlook.com">
+   
+  </a>
+</p>
