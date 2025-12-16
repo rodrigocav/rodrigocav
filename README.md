@@ -21,7 +21,7 @@ Sou curioso, autodidata e movido por desafios.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,java,js,php,sql,html,css,git,github,vscode,linux"/>
+    <img src="https://skillicons.dev/icons?i=python,java,js,java,sql,html,css,git,github,vscode,linux"/>
   </a>
 </p>
 
