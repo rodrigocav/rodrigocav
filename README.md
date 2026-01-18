@@ -30,6 +30,12 @@
 
 ---
 ### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocav&show_icons=true&theme=dark&bg_color=000000&title_color=00FF99&text_color=FFFFFF&icon_color=00FFFF&border_color=3333FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocav&layout=compact&theme=dark&bg_color=000000&title_color=00FF99&text_color=FFFFFF&icon_color=00FFFF&border_color=3333FF"/>
+</p>
 
 
 ---
