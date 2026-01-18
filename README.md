@@ -29,7 +29,6 @@
 </p>
 
 ---
-### 📊 Estatísticas do GitHub
 ### 📊 GitHub Stats
 
 <p align="center">
