@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Rodrigo Cavicchioli 👋</h1>
 
-<!--
-**rodrigocav/rodrigocav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Desenvolvedor de Sistemas | Estudante de Ciência da Computação</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de <strong>Ciência da Computação</strong> na UNIP e Técnico em <strong>Desenvolvimento de Sistemas</strong> pelo Senac. 
+  Focado em construir soluções robustas utilizando <strong>Java</strong> e <strong>Banco de Dados</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre Mim
+
+- 🎓 Atualmente cursando Ciência da Computação (Universidade Paulista).
+- 💻 Desenvolvendo projetos com foco em Backend (Java) e Web (HTML/CSS/JS).
+- ⚙️ Apaixonado por lógica de programação e arquitetura de sistemas.
+- 🚀 Buscando evoluir constantemente em tecnologias do ecossistema Java.
+
+---
+
+### ⚙️ Tecnologias & Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux,maven"/>
+  </a>
+</p>
+
+---
+### 📊 Estatísticas do GitHub
+
+
+---
+### 📬 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodrigocavi-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rodrigo.cavicchioli@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>"Transformando lógica em soluções reais."</em>
+</p>
+  <a href="https://www.linkedin.com/in/rodrigocavi-" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rodrigo.cavicchioli@outlook.com">
+   
+  </a>
+</p>
