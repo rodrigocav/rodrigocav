@@ -47,10 +47,5 @@
 <p align="center">
   <em>"Transformando lógica em soluções reais."</em>
 </p>
-  <a href="https://www.linkedin.com/in/rodrigocavi-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:rodrigo.cavicchioli@outlook.com">
-   
-  </a>
+
 </p>
