@@ -30,7 +30,6 @@
 
 ---
 ### Portfolio
-## 🌐 Deploy
 [![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-Online-0A66C2?style=for-the-badge)](https://rodrigocav-portfolio.vercel.app)
 
 ---
